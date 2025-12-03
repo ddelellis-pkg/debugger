@@ -1,4 +1,4 @@
-package github.com/ddelellis-pkg/debugger
+package debugger
 
 import (
 	"errors"
